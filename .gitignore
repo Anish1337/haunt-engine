@@ -1,0 +1,11 @@
+# CMake build artifacts
+/build/
+
+# if leaving nvim
+.vscode/
+.idea/
+
+# Compiled files
+*.o
+*.a
+*.so
