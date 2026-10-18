@@ -1,2 +1,2 @@
 # haunt-engine
-A game engine built from scratch in modern C++ and Vulkan.
+Building nightmares from scratch with C++ and Vulkan
